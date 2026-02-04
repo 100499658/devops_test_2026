@@ -1,0 +1,11 @@
+.app {
+  text-align: center;
+  width: 100%;
+  max-width: 420px;
+  margin: 20px;
+}
+h1 {
+  margin-bottom: 12px;
+  font-size: 1.4rem;
+  color: #333;
+}

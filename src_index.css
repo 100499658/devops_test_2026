@@ -1,0 +1,17 @@
+:root{
+  --bg: #f4f7fb;
+  --panel: #ffffff;
+  --accent: #2b7cff;
+  --text: #222;
+}
+
+body {
+  margin: 0;
+  font-family: Inter, Roboto, Arial, sans-serif;
+  background: var(--bg);
+  color: var(--text);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+}
